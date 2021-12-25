@@ -1,0 +1,7 @@
+C:\Study\Labs C#\CW_laba\bin\Debug\CW_laba.exe.config
+C:\Study\Labs C#\CW_laba\bin\Debug\CW_laba.exe
+C:\Study\Labs C#\CW_laba\bin\Debug\CW_laba.pdb
+C:\Study\Labs C#\CW_laba\obj\Debug\CW_laba.csprojAssemblyReference.cache
+C:\Study\Labs C#\CW_laba\obj\Debug\CW_laba.csproj.CoreCompileInputs.cache
+C:\Study\Labs C#\CW_laba\obj\Debug\CW_laba.exe
+C:\Study\Labs C#\CW_laba\obj\Debug\CW_laba.pdb

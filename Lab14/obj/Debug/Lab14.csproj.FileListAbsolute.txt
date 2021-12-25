@@ -1,0 +1,17 @@
+C:\Study\Labs C#\Lab14\bin\Debug\Lab14.exe.config
+C:\Study\Labs C#\Lab14\bin\Debug\Lab14.exe
+C:\Study\Labs C#\Lab14\bin\Debug\Lab14.pdb
+C:\Study\Labs C#\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Study\Labs C#\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Study\Labs C#\Lab14\obj\Debug\Lab14.exe
+C:\Study\Labs C#\Lab14\obj\Debug\Lab14.pdb
+C:\Study\Labs C#\Lab14\bin\Debug\System.Memory.dll
+C:\Study\Labs C#\Lab14\bin\Debug\System.Text.Json.dll
+C:\Study\Labs C#\Lab14\bin\Debug\System.Numerics.Vectors.dll
+C:\Study\Labs C#\Lab14\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Study\Labs C#\Lab14\bin\Debug\System.Text.Encodings.Web.dll
+C:\Study\Labs C#\Lab14\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Study\Labs C#\Lab14\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Study\Labs C#\Lab14\obj\Debug\Lab14.exe.config
+C:\Study\Labs C#\Lab14\obj\Debug\Lab14.csproj.CopyComplete
+C:\Study\Labs C#\Lab14\bin\Debug\System.Buffers.dll

@@ -1,0 +1,7 @@
+C:\Study\Labs C#\lab16_2\bin\Debug\lab16_2.exe.config
+C:\Study\Labs C#\lab16_2\bin\Debug\lab16_2.exe
+C:\Study\Labs C#\lab16_2\bin\Debug\lab16_2.pdb
+C:\Study\Labs C#\lab16_2\obj\Debug\lab16_2.csprojAssemblyReference.cache
+C:\Study\Labs C#\lab16_2\obj\Debug\lab16_2.csproj.CoreCompileInputs.cache
+C:\Study\Labs C#\lab16_2\obj\Debug\lab16_2.exe
+C:\Study\Labs C#\lab16_2\obj\Debug\lab16_2.pdb
